@@ -62,7 +62,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/KishoreGhost/KishoreGhost/output/snake.svg" alt="Snake animation" />
-
 
 ###
